@@ -12,7 +12,7 @@ Chat Filter is a lightweight Spigot Plugin for Minecraft that helps server admin
 
 1. Download the plugin JAR file and place it in the 'plugins' folder of your server.
 2. Restart your Minecraft server to generate the configuration files.
-3. Edit the `yml messages' and' settings.yml files 'to customize the behavior and messages of the plugin` 
+3. Edit the "messages.yml" and "config.yml" files to customize the behavior and messages of the plugin
 4. Reload the plugin with the '/azf reload' command or restart the server for the changes to take effect.
 
 ## Commands and Permissions
