@@ -1,0 +1,17 @@
+name: AzChatFilter
+version: 1.0
+main: us.azcode.azchatfilter.AzChatFilter
+api-version: 1.19
+authors:
+- AzC0de
+commands:
+  azf:
+    description: Comando principal para el plugin AzChatFilter
+    usage: /<command> [reload]
+    aliases: [azchatfilter]
+    permission: azchatfilter.reload
+
+permissions:
+  azchatfilter.bypass:
+    description: Permite al jugador evitar el filtro de chat
+    default: op
