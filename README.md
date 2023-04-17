@@ -23,5 +23,5 @@ Chat Filter is a lightweight Spigot Plugin for Minecraft that helps server admin
 
 ## Setting
 
-- 'config.yml': Contains options for banned words, whitelisted URLs, censorship with asterisks, and message replay duration`
-- `message.yml': Contains customizable messages for various chat filter warnings and notifications`
+- config.yml: Contains options for banned words, whitelisted URLs, censorship with asterisks, and message replay duration
+- message.yml: Contains customizable messages for various chat filter warnings and notifications
