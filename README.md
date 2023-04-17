@@ -1,5 +1,3 @@
-##AzChatFilter
-Chat Filter is a lightweight Spigot Plugin for Minecraft that helps server administrators filter out banned words, prevent message repetition, and manage URL sharing in chat.
 
 ### Features
 
