@@ -1,5 +1,4 @@
 banned_word_message: '&cYour message contains a banned word. Please modify your message.'
 repeat_message: '&cYou cannot repeat the same message in a short period of time.'
-url_not_allowed_message: '&cSending URLs or IPs in the chat is not allowed. Please respect the rules.'
 no_permission_message: '&cYou do not have permission to execute this command.'
 config_messages_reloaded: '&aConfiguration and messages reloaded successfully.'

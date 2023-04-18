@@ -1,10 +1,6 @@
 banned_words:
   - 'slut'
   - 'bitch'
-
-whitelisted_urls:
-  - 'example.com'
-  - '192.168.1.1'
-
+enable_message_repeat_check: false
 message_repeat_duration: 60
 censor_with_asterisks: false
